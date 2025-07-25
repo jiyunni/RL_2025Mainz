@@ -7,11 +7,11 @@ The agent learns how to manage the environment across different growth stages of
 
 ### Installation
 
-pip install gymnasium
-pip install numpy
-pip install pandas
-pip install matplotlib
-pip install stable-baselines3
+- pip install gymnasium
+- pip install numpy
+- pip install pandas
+- pip install matplotlib
+- pip install stable-baselines3
 
 ---
 ### Python Version
