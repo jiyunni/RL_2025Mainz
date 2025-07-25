@@ -30,7 +30,8 @@ Not suitable for continuous control → Discretized with custom wrapper.
 Performance was unstable and low.
 
 ___
-###Project Logic
+
+### Project Logic
 1. Custom Environment
 
 - StrawberryEnv simulates strawberry plant growth.
